@@ -1,4 +1,4 @@
-// There is no oop approach here
+// There is no oop approach
 console.log("This is index");
 let html = ''
 function rps(yourChoice) {
